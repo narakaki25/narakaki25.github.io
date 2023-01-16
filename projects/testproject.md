@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/testproject_logo.jpg
 title: "Test Project"
 date: 2023-01-15
 published: true
