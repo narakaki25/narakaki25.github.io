@@ -4,7 +4,7 @@ type: project
 image: img/testproject_logo.jpg
 title: "Test Project"
 date: 2023-01-15
-published: true
+published: false
 labels:
   - Robotics
   - Arduino
