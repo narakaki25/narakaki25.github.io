@@ -14,7 +14,7 @@ Screencast link:https://www.youtube.com/watch?v=3lxld3xFF04
 
 Show what each page will look like. The pages do not have to be “functional” but the design should clear. Here is an example PPT prototype
 Shown in the screen cast
-
+<br />
 Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.
 
 The sites shopping cart will be a separate page where the user can view and edit their product choices. We will get the values from the quantity textboxes and load them into the cart from the given values.
